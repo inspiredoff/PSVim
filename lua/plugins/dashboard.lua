@@ -11,7 +11,7 @@ require('dashboard').setup {
           icon_hl = '@variable',
           desc = 'Files',
           group = 'Label',
-          action = 'Telescope find_files',
+          action = 'Neotree source=~/ position=current',
           key = 'f',
         },
         {
