@@ -11,7 +11,7 @@ require('dashboard').setup {
           icon_hl = '@variable',
           desc = 'Files',
           group = 'Label',
-          action = 'Neotree source=~/ position=current',
+          action = 'Neotree ~/ position=current',
           key = 'f',
         },
         {
