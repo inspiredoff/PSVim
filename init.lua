@@ -23,3 +23,4 @@ require('plugins.whichkey')
 require('plugins.project')
 require('plugins.sniprun')
 --require('plugins.compiler'
+require('plugins.venvselector')
